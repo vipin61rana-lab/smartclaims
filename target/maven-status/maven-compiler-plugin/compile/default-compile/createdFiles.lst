@@ -1,0 +1,8 @@
+com/example/claimsmanagement/exception/ResourceNotFoundException.class
+com/example/claimsmanagement/model/Claim.class
+com/example/claimsmanagement/ClaimsManagementApplication.class
+com/example/claimsmanagement/config/DataInitializer.class
+com/example/claimsmanagement/exception/GlobalExceptionHandler.class
+com/example/claimsmanagement/repository/ClaimRepository.class
+com/example/claimsmanagement/controller/ClaimController.class
+com/example/claimsmanagement/service/ClaimService.class

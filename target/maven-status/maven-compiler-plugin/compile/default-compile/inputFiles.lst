@@ -1,0 +1,8 @@
+/app/src/main/java/com/example/claimsmanagement/ClaimsManagementApplication.java
+/app/src/main/java/com/example/claimsmanagement/config/DataInitializer.java
+/app/src/main/java/com/example/claimsmanagement/controller/ClaimController.java
+/app/src/main/java/com/example/claimsmanagement/exception/GlobalExceptionHandler.java
+/app/src/main/java/com/example/claimsmanagement/exception/ResourceNotFoundException.java
+/app/src/main/java/com/example/claimsmanagement/model/Claim.java
+/app/src/main/java/com/example/claimsmanagement/repository/ClaimRepository.java
+/app/src/main/java/com/example/claimsmanagement/service/ClaimService.java
